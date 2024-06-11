@@ -12,4 +12,5 @@ test repo for git/GitHub lesson
 
 - Miranda is a collaborator on this project.
 
-## No candy corn is not good
+## My name isn't Jon Snow
+
