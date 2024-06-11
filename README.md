@@ -6,4 +6,4 @@ test repo for git/GitHub lesson
 - Practice git workflow
 
 ## Creator
-- James is an engineer with the Delta Stewardship Council. You can contact him at [james.edwards@deltacouncil.ca.gov](mailto::james.edwards@deltacouncil.ca.gov).
+- James is an engineer with the Delta Stewardship Council. You can contact him at [james.edwards@deltacouncil.ca.gov](mailto:james.edwards@deltacouncil.ca.gov).
