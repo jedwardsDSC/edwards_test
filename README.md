@@ -11,3 +11,5 @@ test repo for git/GitHub lesson
 ## Collaborator
 
 - Miranda is a collaborator on this project.
+
+## No candy corn is not good
