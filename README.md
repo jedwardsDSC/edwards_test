@@ -7,3 +7,7 @@ test repo for git/GitHub lesson
 
 ## Creator
 - James is an engineer with the Delta Stewardship Council. You can contact him at [james.edwards@deltacouncil.ca.gov](mailto:james.edwards@deltacouncil.ca.gov).
+
+## Collaborator
+
+- Miranda is a collaborator on this project.
